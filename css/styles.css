@@ -2,6 +2,10 @@
 @import url('faqs.css');
 /* @import url('form-multistep-calendly.css'); */
 
+.hp-hero-section {
+    background: orange;
+}
+
 /* Text selection highlight */
 ::selection {
     background-color: var(--color-scheme-1--text-selection);
